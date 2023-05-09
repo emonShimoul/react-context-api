@@ -41,5 +41,4 @@ export default Cart;
 /*
 CONDITIONAL RENDERING
 1. use if else to set a variable that will contain an element, components
-2. ternar
 */
